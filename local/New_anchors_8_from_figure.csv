@@ -1,9 +1,0 @@
-anchor_id,x_m,y_m,note
-A0,4.0,14.5,"Room 201 (inside, NLOS to corridor)"
-A1,15.0,2.0,"Room 205 (inside, NLOS to corridor)"
-A2,29.0,14.2,Meeting room upper (LOS in room)
-A3,7.5,8.2,Corridor left-mid (LOS anchor)
-A4,19.0,8.0,Corridor mid-right (LOS anchor)
-A5,29.2,7.6,"Meeting room lower (LOS in room, near door)"
-A6,4.0,1.8,"Room 204 (inside, NLOS to corridor)"
-A7,24.5,14.2,"Room 203 (inside, NLOS to corridor)"
